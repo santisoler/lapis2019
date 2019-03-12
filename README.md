@@ -50,7 +50,7 @@ Argentina with a maximum depth of over 5000m, using an exponential density funct
 The poster was entirely made on Inkscape using the Glacial Indifference font, which is
 available under the SIL Open Font License.
 
-If the fonts are not installed on your system, the poster wouldn't look as expected.
+If the fonts are not installed on your system, the poster won't look as expected.
 Please install the needed fonts.
 
 
