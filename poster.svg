@@ -354,11 +354,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.08838835"
-     inkscape:cx="1220.3211"
-     inkscape:cy="2498.9207"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="1187.5121"
+     inkscape:cy="2261.9955"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -366,8 +366,65 @@
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true" />
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="39.999999,0"
+       orientation="1,0"
+       id="guide978"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="486.69999,817.03331"
+       orientation="1,0"
+       id="guide980"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid982" />
+    <sodipodi:guide
+       position="526.69999,804.33332"
+       orientation="1,0"
+       id="guide984"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="973.39998,434.0457"
+       orientation="1,0"
+       id="guide986"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1460.1,626.53332"
+       orientation="1,0"
+       id="guide988"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1013.4,554.56666"
+       orientation="1,0"
+       id="guide990"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="474.99998,990.82158"
+       orientation="0,1"
+       id="guide992"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="395.13126,131.71042"
+       orientation="0,1"
+       id="guide994"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata109673">
     <rdf:RDF>
@@ -376,7 +433,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -386,7 +443,7 @@
      inkscape:label="Backgrounds"
      sodipodi:insensitive="true">
     <rect
-       style="fill:#333333;fill-opacity:1;stroke:#2c3e50;stroke-width:0.80638921;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="fill:#333333;fill-opacity:1;stroke:#2c3e50;stroke-width:0.81;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect850"
        width="1499.1935"
        height="173.29832"
@@ -762,4 +819,92 @@
            id="rect2028" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:50px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#f2f2f2"
          id="flowPara2032">The poster can be downloaded from github.com/santisoler/lapis2019</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Separators"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99630857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1012"
+       width="445.05112"
+       height="855.93976"
+       x="40.824478"
+       y="210.76408"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#311515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1031"
+       width="446.69998"
+       height="859.11121"
+       x="526.70001"
+       y="209.17839"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1033"
+       width="446.69998"
+       height="859.11121"
+       x="1013.4"
+       y="209.17839"
+       rx="0"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Introduction"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot959"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion961"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold'"><rect
+           id="rect963"
+           width="1697.0563"
+           height="803.27325"
+           x="237.58788"
+           y="1062.1246"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold'" /></flowRegion><flowPara
+         id="flowPara965"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot967"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;line-height:1.25;font-family:zapf;-inkscape-font-specification:zapf;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
+       transform="matrix(0.26338277,0,0,0.26338277,16.012226,-35.356476)"><flowRegion
+         id="flowRegion969"
+         style="font-size:66.66666412px;text-align:center;text-anchor:middle;fill:#333333"><rect
+           id="rect971"
+           width="1458.4077"
+           height="124.70044"
+           x="209.3036"
+           y="982.92871"
+           style="font-size:66.66666412px;text-align:center;text-anchor:middle;fill:#333333" /></flowRegion><flowPara
+         id="flowPara973"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333">Introduction</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot996"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:zapf;-inkscape-font-specification:zapf;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion998"><rect
+           id="rect1000"
+           width="404"
+           height="432"
+           x="604"
+           y="943.43311" /></flowRegion><flowPara
+         id="flowPara1002"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1004"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:zapf;-inkscape-font-specification:zapf;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion1006"><rect
+           id="rect1008"
+           width="848"
+           height="108"
+           x="272"
+           y="983.43311" /></flowRegion><flowPara
+         id="flowPara1010"></flowPara></flowRoot>  </g>
 </svg>
