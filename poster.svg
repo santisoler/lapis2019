@@ -355,10 +355,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.088388348"
-     inkscape:cx="1187.5121"
-     inkscape:cy="2261.9955"
+     inkscape:cx="4154.7187"
+     inkscape:cy="2159.6175"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -818,7 +818,21 @@
            width="1701.2296"
            id="rect2028" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:50px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#f2f2f2"
-         id="flowPara2032">The poster can be downloaded from github.com/santisoler/lapis2019</flowPara></flowRoot>  </g>
+         id="flowPara2032">The poster can be downloaded from github.com/santisoler/lapis2019</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1082"
+       style="font-style:normal;font-weight:normal;font-size:80px;line-height:40px;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,801.75321,909.87873)"><flowRegion
+         id="flowRegion1078"
+         style="font-size:80px;line-height:40px;text-align:start;text-anchor:start;fill:#f2f2f2"><rect
+           id="rect1076"
+           width="579.81781"
+           height="177.54234"
+           x="937.42151"
+           y="834.23425"
+           style="font-size:80px;line-height:40px;text-align:start;text-anchor:start;fill:#f2f2f2" /></flowRegion><flowPara
+         id="flowPara1080"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00000381px;line-height:40px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#f2f2f2">This research was possible thanks to a PhD Scholarship granted by CONICET.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
