@@ -261,27 +261,25 @@
     </clipPath>
     <defs
        id="defs3">
-		<rect
-   id="SVGID_1_"
-   x="3.984"
-   y="3.0220001"
-   width="976.01599"
-   height="692.97803" />
-
-	</defs>
+      <rect
+         id="SVGID_1_"
+         x="3.984"
+         y="3.0220001"
+         width="976.01599"
+         height="692.97803" />
+    </defs>
     <clipPath
        id="SVGID_2_-4">
-		<use
-   height="100%"
-   width="100%"
-   y="0"
-   x="0"
-   style="overflow:visible"
-   xlink:href="#SVGID_1_"
-   overflow="visible"
-   id="use5-5" />
-
-	</clipPath>
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_1_"
+         overflow="visible"
+         id="use5-5" />
+    </clipPath>
     <rect
        id="rect1205"
        x="3.984"
@@ -356,9 +354,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="2602.585"
-     inkscape:cy="695.63294"
+     inkscape:zoom="0.08838835"
+     inkscape:cx="1220.3211"
+     inkscape:cy="2498.9207"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -480,33 +478,28 @@
          id="flowPara863"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#999999" /></flowRoot>    <g
        transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)"
-       id="g22-68">
-</g>
+       id="g22-68" />
     <g
        transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)"
-       id="g24-8">
-</g>
+       id="g24-8" />
     <g
        transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)"
-       id="g26-4">
-</g>
+       id="g26-4" />
     <g
        transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)"
-       id="g28-3">
-</g>
+       id="g28-3" />
     <g
        transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)"
-       id="g30-14">
-</g>
+       id="g30-14" />
     <g
        transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)"
-       id="g32-9">
-</g>
+       id="g32-9" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Footer">
+     inkscape:label="Footer"
+     sodipodi:insensitive="true">
     <g
        id="g1437"
        transform="matrix(0.82247419,0,0,0.82247419,1069.9262,1005.74)">
