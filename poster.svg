@@ -438,11 +438,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="677.41646"
-     inkscape:cy="1948.1051"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="3612.0322"
+     inkscape:cy="4422.2898"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="cm"
      inkscape:window-width="1920"
@@ -585,6 +585,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,902.99998)"
+     style="display:inline"
      sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
@@ -632,29 +633,7 @@
    style="font-size:64.99999762%;baseline-shift:super;fill:#999999"
    id="flowSpan1007">3</flowSpan></flowPara><flowPara
          id="flowPara835"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:116.66667175px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#f2f2f2" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot845"
-       style="font-style:normal;font-weight:normal;font-size:53.33333588px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,114.81646,-1068.3927)"><flowRegion
-         id="flowRegion847"
-         style="font-size:53.33333588px;text-align:center;text-anchor:middle;fill:#999999"><rect
-           id="rect849"
-           width="2552.1421"
-           height="233.73242"
-           x="1123.2896"
-           y="1141.3206"
-           style="font-size:53.33333588px;text-align:center;text-anchor:middle;fill:#999999" /></flowRegion><flowPara
-         id="flowPara861"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#999999"><flowSpan
-   style="font-size:53.33333588px;text-align:center;baseline-shift:super;text-anchor:middle;fill:#999999"
-   id="flowSpan885">1</flowSpan> CONICET  <flowSpan
-   style="font-size:53.33333588px;text-align:center;baseline-shift:super;text-anchor:middle;fill:#999999"
-   id="flowSpan883">2</flowSpan> IGSV, UNSJ  <flowSpan
-   style="font-size:53.33333588px;text-align:center;baseline-shift:super;text-anchor:middle;fill:#999999"
-   id="flowSpan881">3</flowSpan> Department of Earth Sciences, SOEST, University of Hawai'i at Manoa, USA.</flowPara><flowPara
-         id="flowPara863"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#999999" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:116.66667175px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#f2f2f2" /></flowRoot>    <g
        transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)"
        id="g22-68" />
     <g
@@ -672,6 +651,36 @@
     <g
        transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)"
        id="g32-9" />
+    <g
+       id="g16486">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,114.81646,-1068.3927)"
+         style="font-style:normal;font-weight:normal;font-size:53.33333588px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none"
+         id="flowRoot845"
+         xml:space="preserve"><flowRegion
+           style="font-size:53.33333588px;text-align:center;text-anchor:middle;fill:#999999"
+           id="flowRegion847"><rect
+             style="font-size:53.33333588px;text-align:center;text-anchor:middle;fill:#999999"
+             y="1141.3206"
+             x="1123.2896"
+             height="233.73242"
+             width="2552.1421"
+             id="rect849" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#999999"
+           id="flowPara861"><flowSpan
+   id="flowSpan885"
+   style="font-size:53.33333588px;text-align:center;baseline-shift:super;text-anchor:middle;fill:#999999">1</flowSpan> CONICET  <flowSpan
+   id="flowSpan883"
+   style="font-size:53.33333588px;text-align:center;baseline-shift:super;text-anchor:middle;fill:#999999">2</flowSpan> IGSV, UNSJ  <flowSpan
+   id="flowSpan881"
+   style="font-size:53.33333588px;text-align:center;baseline-shift:super;text-anchor:middle;fill:#999999">3</flowSpan> Department of Earth Sciences, SOEST, University of Hawai'i at Manoa, USA.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#999999"
+           id="flowPara863" /></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path16455"
+         d="m 1004.0394,-761.85939 h -5.09335"
+         style="fill:none;stroke:#999999;stroke-width:0.98777777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
