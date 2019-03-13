@@ -50,11 +50,43 @@ This volume integral can be numerically approximated through a GLQ:
 \end{equation}
 ```
 
-The **GQL is equivalent** to approximate the Tesseroid as **point masses** located on
+The **GQL is equivalent** to approximate the tesseroid as **point masses** located on
 the nodes of the Quadrature.
 
 > Imagen de GQL nodes
 
 This introduces two sources of errors:
-- The approximation gets worst when getting closer to the Tesseroid.
-- The density function is only evaluated at two depths.
+- The approximation becomes less accurate when the computation point gets closer to the
+  tesseroid.
+- The density function is evaluated only at two depths.
+
+
+## Two Dimensional Adaptive Discretization
+
+Instead of increasing the GLQ order, an efficient way to reduce the error due to the
+distance between the tesseroid and the computation point is to apply discretizations to
+the original tesseroid.
+
+**Step 1.** Check if the tesseroid satisfies the following inequality:
+
+```
+$$ \frac{d}{L_{\lambda, \phi}} \geq D $$
+```
+
+where `d` is the distance from the center of the tesseroid to the computation point,
+`L_{\lambda, \phi}` are the longitudinal and latitudinal dimensions of the tesseroid and
+`D` is a positive scalar defined as the **distance-size ratio**.
+
+**Step 2.** If none of the dimensions fails the inequality, compute the gravitational
+field it generates using a **second-order GLQ**. Add the computed effect to the running
+total.
+
+**Step 3.** If the inequality does not hold for one of the dimensions, we **split the
+tesseroid in half** along that dimension. Then repeat the steps 1-3 for all smaller
+tesseroids until none are left that violate the inequality.
+
+> Imagen adaptive-discretization
+
+**Final step.** A second-order GLQ have been applied to each smaller tesseroid, and the
+running total gathered up on step 2 will be the gravitational effect of the original
+tesseroid.
