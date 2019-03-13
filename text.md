@@ -72,9 +72,7 @@ the original tesseroid.
 $$ \frac{d}{L_{\lambda, \phi}} \geq D $$
 ```
 
-where `d` is the distance from the center of the tesseroid to the computation point,
-`L_{\lambda, \phi}` are the longitudinal and latitudinal dimensions of the tesseroid and
-`D` is a positive scalar defined as the **distance-size ratio**.
+where `D` is a positive scalar defined as the **distance-size ratio**.
 
 **Step 2.** If none of the dimensions fails the inequality, compute the gravitational
 field it generates using a **second-order GLQ**. Add the computed effect to the running
