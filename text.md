@@ -87,3 +87,40 @@ tesseroids until none are left that violate the inequality.
 **Final step.** A second-order GLQ have been applied to each smaller tesseroid, and the
 running total gathered up on step 2 will be the gravitational effect of the original
 tesseroid.
+
+A greater **D** generates more subdivisions.
+So the value of **D** controls both the accuracy and the computation time.
+
+
+## Density-based Discretization Algorithm
+
+We have developed a complementary discretization algorithm that takes into account the variations of the density function.
+In short, it divides the tesseroid along the radial dimensions at the depths at which
+the *maximum density variation* takes place.
+
+Consider a tesseroid with a continuous density function in depth.
+Before starting the new discretization algorithm, we **normalise the density function** to
+the range [0, 1].
+
+1. Define a **straight line** that assumes the same values of the normalised density at
+   the boundaries of the tesseroid.
+2. Compute the **absolute difference** between the straight line and the normalised
+   density.
+3. If the following inequality holds, the tesseroid will **not be subdivided**.
+```
+inequality
+```
+where delta is a positive constant called **delta ratio**.
+4. If the inequality is not satisfied, then the tesseroid is split in two parts at the
+   radius at which the maximum absolute difference takes place.
+   Repeat steps 1-4 for each smaller tesseroid produced in this step.
+Final step. Once all smaller tesseroids satisfy the inequality, each one is subjected to
+the two dimensional adaptive discretization algorithm to compute their gravitational
+effects.
+
+If the density function is linear or a constant, the density-based discretization
+algorithm is not applied.
+
+A lower value of **delta** generates more subdivisions.
+So the value of **delta** controls both the accuracy and the computation time.
+
