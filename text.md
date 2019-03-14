@@ -94,9 +94,10 @@ So the value of **D** controls both the accuracy and the computation time.
 
 ## Density-based Discretization Algorithm
 
-We have developed a complementary discretization algorithm that takes into account the variations of the density function.
-In short, it divides the tesseroid along the radial dimensions at the depths at which
-the *maximum density variation* takes place.
+We have developed a complementary discretization algorithm that takes into account the
+variations of the density function.
+In short, it **divides the tesseroid** along the **radial dimension** at the depths at
+which the *maximum density variation* takes place.
 
 Consider a tesseroid with a continuous density function in depth.
 Before starting the new discretization algorithm, we **normalise the density function** to
