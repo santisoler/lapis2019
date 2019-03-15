@@ -1615,11 +1615,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="1625.7115"
-     inkscape:cy="2474.6822"
+     inkscape:zoom="0.5"
+     inkscape:cx="2624.7388"
+     inkscape:cy="3185.034"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="cm"
      inkscape:window-width="1920"
@@ -7182,12 +7182,12 @@
            y="982.92871"
            x="209.3036"
            height="224.73657"
-           width="879.37463"
+           width="1100.3774"
            id="rect3793" /></flowRegion><flowPara
          id="flowPara3805"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Density-based discretization example:</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.5764389px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Density-based discretization example</flowPara></flowRoot>    <g
        id="g42392"
-       transform="translate(-0.05495378,-265.71742)">
+       transform="translate(-0.05495378,-263.60074)">
       <g
          transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_1">
