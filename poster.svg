@@ -392,7 +392,7 @@
        inkscape:collect="always">
       <path
          id="path3468"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#666666;stroke-opacity:1;fill:#666666;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.3) rotate(180) translate(-2.3,0)" />
     </marker>
@@ -1615,9 +1615,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="2315.6457"
-     inkscape:cy="2168.6999"
+     inkscape:zoom="0.25"
+     inkscape:cx="3463.5797"
+     inkscape:cy="2960.4363"
      inkscape:document-units="cm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -8021,10 +8021,9 @@
        id="line2d_31"
        transform="matrix(0.97446667,0,0,0.97446667,516.88185,623.70646)" />
     <g
-       id="g16407"
-       transform="translate(-2.0180258,-138.16692)">
+       id="g42392">
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_1">
         <defs
            id="defs13">
@@ -8047,7 +8046,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_2">
         <g
            id="g34">
@@ -8062,7 +8061,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_3">
         <path
            id="path104-0"
@@ -8072,7 +8071,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_4">
         <defs
            id="defs108">
@@ -8104,7 +8103,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_5">
         <path
            id="path117"
@@ -8117,10 +8116,10 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path12987"
-         d="m 589.93813,683.31008 17.77669,24.3913"
+         d="m 594.28111,543.27227 11.41568,26.26219"
          style="fill:none;stroke:#666666;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12991)" />
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_6">
         <path
            id="path120-1"
@@ -8130,7 +8129,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_3">
         <path
            id="path123"
@@ -8139,7 +8138,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_4">
         <path
            id="path126"
@@ -8149,11 +8148,11 @@
       </g>
       <path
          inkscape:connector-curvature="0"
-         d="M 539.15395,756.70006 H 645.51317"
+         d="M 537.13592,618.53314 H 643.49514"
          style="fill:none;stroke:#000000;stroke-width:0.77957332;stroke-linecap:square;stroke-linejoin:miter"
          id="path129" />
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_6">
         <path
            id="path132"
@@ -8162,7 +8161,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_7">
         <g
            id="g154">
@@ -8177,7 +8176,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_8">
         <g
            id="g167">
@@ -8192,7 +8191,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_9">
         <path
            id="path180"
@@ -8202,7 +8201,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_10">
         <g
            id="g189"
@@ -8234,7 +8233,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_11">
         <path
            id="path192"
@@ -8244,7 +8243,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_12">
         <path
            id="path195"
@@ -8254,7 +8253,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_13">
         <path
            id="path198"
@@ -8292,7 +8291,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_8">
         <path
            id="path210"
@@ -8301,7 +8300,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_9">
         <path
            id="path213"
@@ -8311,11 +8310,11 @@
       </g>
       <path
          inkscape:connector-curvature="0"
-         d="M 648.31963,756.70006 H 754.67885"
+         d="M 646.3016,618.53314 H 752.66082"
          style="fill:none;stroke:#000000;stroke-width:0.77957332;stroke-linecap:square;stroke-linejoin:miter"
          id="path216" />
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_11">
         <path
            id="path219"
@@ -8324,7 +8323,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="text_7">
         <!-- $L_r$ -->
         <defs
@@ -8357,7 +8356,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_14">
         <g
            id="g250">
@@ -8372,7 +8371,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_15">
         <g
            id="g263">
@@ -8387,7 +8386,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_16">
         <path
            id="path276"
@@ -8397,7 +8396,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_17">
         <g
            id="g287"
@@ -8437,7 +8436,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_18">
         <path
            id="path290"
@@ -8447,7 +8446,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_19">
         <path
            id="path293"
@@ -8457,7 +8456,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_20">
         <path
            id="path296"
@@ -8487,7 +8486,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_13">
         <path
            id="path305"
@@ -8496,7 +8495,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_14">
         <path
            id="path308"
@@ -8506,11 +8505,11 @@
       </g>
       <path
          inkscape:connector-curvature="0"
-         d="M 757.48531,756.70006 H 863.84453"
+         d="M 755.46728,618.53314 H 861.8265"
          style="fill:none;stroke:#000000;stroke-width:0.77957332;stroke-linecap:square;stroke-linejoin:miter"
          id="path311" />
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_16">
         <path
            id="path314"
@@ -8519,7 +8518,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="text_11">
         <!-- $L_r$ -->
         <g
@@ -8545,7 +8544,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_21">
         <g
            id="g342">
@@ -8560,7 +8559,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_22">
         <g
            id="g355">
@@ -8575,7 +8574,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_23">
         <path
            id="path368"
@@ -8585,7 +8584,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_24">
         <g
            id="g381"
@@ -8633,7 +8632,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_18">
         <path
            id="path384-5"
@@ -8642,7 +8641,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_19">
         <path
            id="path387"
@@ -8652,11 +8651,11 @@
       </g>
       <path
          inkscape:connector-curvature="0"
-         d="M 866.65099,756.70006 H 973.01021"
+         d="M 864.63296,618.53314 H 970.99218"
          style="fill:none;stroke:#000000;stroke-width:0.77957332;stroke-linecap:square;stroke-linejoin:miter"
          id="path390-4" />
       <g
-         transform="matrix(0.97446667,0,0,0.97446667,516.88185,640.11066)"
+         transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="patch_21">
         <path
            id="path393"
@@ -8665,7 +8664,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(0,-158.74997)"
+         transform="translate(-2.0180258,-296.91689)"
          id="g11872">
         <path
            sodipodi:nodetypes="cc"
@@ -8696,7 +8695,7 @@
       </g>
       <g
          style="fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-opacity:1"
-         transform="matrix(0.11312882,0,0,0.11312882,385.58975,577.39141)"
+         transform="matrix(0.11312882,0,0,0.11312882,383.57172,439.22449)"
          id="g11532">
         <g
            word-spacing="normal"
@@ -8740,7 +8739,7 @@
              inkscape:connector-curvature="0"
              style="fill:#7f7f7f;fill-opacity:1;stroke:#7f7f7f;stroke-width:0;stroke-opacity:1" /></g>      </g>
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-124.95484,315.88281)"
+         transform="matrix(0.26458333,0,0,0.26458333,-126.97287,177.71589)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:zapf;-inkscape-font-specification:zapf;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
          id="flowRoot11660"
          xml:space="preserve"><flowRegion
@@ -8749,15 +8748,15 @@
              style="font-size:34.66666794px;line-height:1.29999995;text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
              y="1689.3284"
              x="2501.3901"
-             height="173.98277"
-             width="309.35934"
+             height="149.94116"
+             width="363.09949"
              id="rect11654" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
            id="flowPara11658">normalised density</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot11668"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:zapf;-inkscape-font-specification:zapf;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-120.16425,245.999)"><flowRegion
+         transform="matrix(0.26458333,0,0,0.26458333,-123.76979,107.83208)"><flowRegion
            id="flowRegion11664"
            style="font-size:34.66666794px;line-height:1.29999995;text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"><rect
              id="rect11662"
@@ -8767,11 +8766,11 @@
              y="1689.3284"
              style="font-size:34.66666794px;line-height:1.29999995;text-align:start;text-anchor:start;fill:#666666;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara11666"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1">straight line</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1">straight line</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot11880"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:zapf;-inkscape-font-specification:zapf;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-101.05964,210.88457)"><flowRegion
+         transform="matrix(0.26458333,0,0,0.26458333,-103.07767,72.71765)"><flowRegion
            id="flowRegion11876"
            style="font-size:34.66666794px;line-height:1.29999995;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1"><rect
              id="rect11874"
@@ -8781,28 +8780,28 @@
              y="1689.3284"
              style="font-size:34.66666794px;line-height:1.29999995;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara11878"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">max abs difference</flowPara></flowRoot>      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">max abs difference</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path11882"
-         d="m 602.35371,763.35715 0.94433,-15.02645"
+         d="m 600.33568,625.19023 0.94433,-15.02645"
          style="fill:none;stroke:#666666;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12349)" />
       <path
          style="fill:none;stroke:#666666;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12505)"
-         d="m 562.36359,706.17173 4.31601,15.51949"
+         d="m 563.71316,567.25646 0.94841,16.26784"
          id="path12501"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <path
          inkscape:connector-curvature="0"
          id="path13305"
-         d="m 625.8295,762.41615 c 0,0 5.26185,19.29353 20.46282,19.29353 15.20095,0 20.17049,-19.14734 20.17049,-19.14734"
+         d="m 623.81147,624.24923 c 0,0 5.26185,19.29353 20.46282,19.29353 15.20095,0 20.17049,-19.14734 20.17049,-19.14734"
          style="fill:none;stroke:#666666;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13321)" />
       <flowRoot
          xml:space="preserve"
          id="flowRoot13485"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:zapf;-inkscape-font-specification:zapf;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-23.435402,317.30385)"><flowRegion
+         transform="matrix(0.26458333,0,0,0.26458333,-26.693693,179.16538)"><flowRegion
            id="flowRegion13481"
            style="font-size:34.66666794px;line-height:1.29999995;text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"><rect
              id="rect13479"
@@ -8812,13 +8811,13 @@
              y="1689.3284"
              style="font-size:34.66666794px;line-height:1.29999995;text-align:start;text-anchor:start;fill:#666666;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara13483"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1">split</flowPara></flowRoot>      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1">split</flowPara></flowRoot>      <path
          style="fill:none;stroke:#666666;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13517)"
-         d="m 735.36698,762.41615 c 0,0 5.26185,19.29353 20.46282,19.29353 15.20095,0 20.17049,-19.14734 20.17049,-19.14734"
+         d="m 733.34895,624.24923 c 0,0 5.26185,19.29353 20.46282,19.29353 15.20095,0 20.17049,-19.14734 20.17049,-19.14734"
          id="path13505"
          inkscape:connector-curvature="0" />
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,86.102096,317.30385)"
+         transform="matrix(0.26458333,0,0,0.26458333,82.843787,179.16538)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:zapf;-inkscape-font-specification:zapf;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
          id="flowRoot13513"
          xml:space="preserve"><flowRegion
@@ -8830,14 +8829,14 @@
              height="173.98277"
              width="309.35934"
              id="rect13507" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
            id="flowPara13511">split</flowPara></flowRoot>      <path
          style="fill:none;stroke:#666666;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13747)"
-         d="m 844.37528,762.41615 c 0,0 5.26185,19.29353 20.46282,19.29353 15.20095,0 20.17049,-19.14734 20.17049,-19.14734"
+         d="m 842.35725,624.24923 c 0,0 5.26185,19.29353 20.46282,19.29353 15.20095,0 20.17049,-19.14734 20.17049,-19.14734"
          id="path13735"
          inkscape:connector-curvature="0" />
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,195.11039,317.30385)"
+         transform="matrix(0.26458333,0,0,0.26458333,191.85209,179.16538)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:zapf;-inkscape-font-specification:zapf;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
          id="flowRoot13743"
          xml:space="preserve"><flowRegion
@@ -8849,23 +8848,23 @@
              height="173.98277"
              width="309.35934"
              id="rect13737" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
            id="flowPara13741">split</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot14073"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:zapf;-inkscape-font-specification:zapf;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none"
-         transform="matrix(0.26458333,0,0,0.26458333,207.12754,220.66981)"><flowRegion
+         transform="matrix(0.26458333,0,0,0.26458333,205.10951,82.50289)"><flowRegion
            id="flowRegion14069"
            style="font-size:34.66666794px;line-height:1.29999995;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1"><rect
              id="rect14067"
-             width="309.35934"
-             height="173.98277"
+             width="341.88629"
+             height="173.98279"
              x="2501.3901"
              y="1689.3284"
              style="font-size:34.66666794px;line-height:1.29999995;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara14071"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">Inequality satisfied by all smaller tesseroids</flowPara></flowRoot>      <g
-         transform="translate(0,-36.512501)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">Inequality satisfied by all smaller tesseroids</flowPara></flowRoot>      <g
+         transform="translate(-2.0180258,-174.67942)"
          id="g14342">
         <flowRoot
            xml:space="preserve"
@@ -8905,7 +8904,7 @@
         </g>
       </g>
       <g
-         transform="translate(0,-132.29167)"
+         transform="translate(-2.0180258,-270.45859)"
          id="g14362">
         <flowRoot
            transform="matrix(0.26458333,0,0,0.26458333,20.097416,-59.955967)"
@@ -8948,7 +8947,7 @@
          xml:space="preserve"
          id="flowRoot14752"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1;font-family:zapf;-inkscape-font-specification:zapf;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-18.48164,249.67601)"><flowRegion
+         transform="matrix(0.26458333,0,0,0.26458333,-20.499666,111.50909)"><flowRegion
            id="flowRegion14748"
            style="font-size:34.66666794px;line-height:1;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1"><rect
              id="rect14746"
@@ -8958,11 +8957,11 @@
              y="1689.3284"
              style="font-size:34.66666794px;line-height:1;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara14750"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">discretization</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">discretization</flowPara><flowPara
            id="flowPara15138"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">depth</flowPara></flowRoot>      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">depth</flowPara></flowRoot>      <path
          style="fill:none;stroke:#666666;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15690)"
-         d="m 701.04329,712.82173 15.49641,17.5173"
+         d="m 699.02526,574.65481 15.49641,17.5173"
          id="path15686"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
