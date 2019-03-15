@@ -20,6 +20,20 @@
   <defs
      id="defs109670">
     <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4907"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4905"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
        inkscape:isstock="true"
        style="overflow:visible;"
        id="marker41470"
@@ -40,27 +54,13 @@
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="Arrow2Mend">
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
       <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
          id="path40002" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="marker37462"
-       style="overflow:visible;"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path37460"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) rotate(180) translate(0,0)" />
     </marker>
     <marker
        inkscape:stockid="Arrow2Mend"
@@ -1615,11 +1615,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="3463.5797"
-     inkscape:cy="2960.4363"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="2989.6209"
+     inkscape:cy="2660.6057"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="cm"
      inkscape:window-width="1920"
@@ -1627,14 +1627,14 @@
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:snap-to-guides="true"
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="true"
-     inkscape:snap-text-baseline="true"
+     inkscape:snap-text-baseline="false"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:snap-page="true"
@@ -1647,19 +1647,19 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-midpoints="false"
-     inkscape:snap-object-midpoints="true"
+     inkscape:snap-object-midpoints="false"
      inkscape:snap-others="false">
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide978"
        orientation="1,0"
        position="39.999999,0" />
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide980"
        orientation="1,0"
        position="486.69999,817.03331" />
@@ -1669,40 +1669,40 @@
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide984"
        orientation="1,0"
        position="526.69999,804.33332" />
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide986"
        orientation="1,0"
        position="973.39998,434.0457" />
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide988"
        orientation="1,0"
        position="1460.1,626.53332" />
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide990"
        orientation="1,0"
        position="1013.4,554.56666" />
     <sodipodi:guide
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide992"
        orientation="0,1"
        position="474.99998,990.81998"
        inkscape:label=""
        inkscape:color="rgb(0,173,0)" />
     <sodipodi:guide
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide994"
        orientation="0,1"
        position="395.13126,131.71"
@@ -1712,46 +1712,46 @@
        position="461.69999,309.97591"
        orientation="1,0"
        id="guide12481"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(43,179,221)" />
     <sodipodi:guide
        position="64.999999,344.7994"
        orientation="1,0"
        id="guide12529"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(43,179,221)" />
     <sodipodi:guide
        position="551.69999,924.06926"
        orientation="1,0"
        id="guide1506"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(43,179,221)" />
     <sodipodi:guide
        position="948.39998,871.0083"
        orientation="1,0"
        id="guide1508"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(43,179,221)" />
     <sodipodi:guide
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide16505"
        orientation="0,1"
        position="232.30416,95.8386" />
     <sodipodi:guide
        inkscape:color="rgb(0,0,255)"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide16507"
        orientation="0,1"
        position="74.083331,47.919999" />
     <sodipodi:guide
        inkscape:color="rgb(255,0,15)"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        id="guide12928"
        orientation="1,0"
        position="263.35,401.86646" />
@@ -1759,14 +1759,14 @@
        position="750.04999,284.37477"
        orientation="1,0"
        id="guide31063"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(255,0,16)" />
     <sodipodi:guide
-       position="647.02187,785.10158"
+       position="884.34355,797.32654"
        orientation="1,0"
-       id="guide41170"
-       inkscape:locked="true" />
+       id="guide5745"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata109673">
@@ -7892,7 +7892,7 @@
     </g>
     <g
        id="g39088"
-       transform="translate(0,-83.079173)">
+       transform="translate(0,-104.24584)">
       <flowRoot
          transform="matrix(0.26338277,0,0,0.26338277,538.77973,484.52996)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995;font-family:zapf;-inkscape-font-specification:zapf;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
@@ -7911,7 +7911,7 @@
    id="flowSpan1728"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.18232727px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold'">delta </flowSpan>generates<flowSpan
    id="flowSpan38972"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold'"></flowSpan></flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold'" /></flowPara><flowPara
            id="flowPara39063"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"><flowSpan
              id="flowSpan39065"
@@ -8021,7 +8021,8 @@
        id="line2d_31"
        transform="matrix(0.97446667,0,0,0.97446667,516.88185,623.70646)" />
     <g
-       id="g42392">
+       id="g42392"
+       transform="translate(0,-19.579166)">
       <g
          transform="matrix(0.97446667,0,0,0.97446667,514.86382,501.94374)"
          id="line2d_1">
@@ -8751,7 +8752,7 @@
              height="149.94116"
              width="363.09949"
              id="rect11654" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
            id="flowPara11658">normalised density</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot11668"
@@ -8780,7 +8781,7 @@
              y="1689.3284"
              style="font-size:34.66666794px;line-height:1.29999995;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara11878"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">max abs difference</flowPara></flowRoot>      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">max abs difference</flowPara></flowRoot>      <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path11882"
@@ -8863,7 +8864,7 @@
              y="1689.3284"
              style="font-size:34.66666794px;line-height:1.29999995;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara14071"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">Inequality satisfied by all smaller tesseroids</flowPara></flowRoot>      <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">Inequality satisfied by all smaller tesseroids</flowPara></flowRoot>      <g
          transform="translate(-2.0180258,-174.67942)"
          id="g14342">
         <flowRoot
@@ -8957,9 +8958,9 @@
              y="1689.3284"
              style="font-size:34.66666794px;line-height:1;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara14750"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">discretization</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">discretization</flowPara><flowPara
            id="flowPara15138"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999977px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">depth</flowPara></flowRoot>      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1">depth</flowPara></flowRoot>      <path
          style="fill:none;stroke:#666666;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15690)"
          d="m 699.02526,574.65481 15.49641,17.5173"
          id="path15686"
@@ -9013,7 +9014,7 @@
            id="flowPara20255">difference</flowPara></flowRoot>    </g>
     <g
        id="g25081"
-       transform="translate(1492.3523,-175.01002)">
+       transform="translate(1524.1125,-188.76835)">
       <rect
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.34210199;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect24410"
@@ -9051,7 +9052,7 @@
            style="font-size:34.66666794px;line-height:1.29999995;text-align:start;text-anchor:start;fill:#666666;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara19731"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1">radial dimension of the current tesseroid</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,212.25387,-42.065813)"
+       transform="matrix(0.26458333,0,0,0.26458333,100.56194,-18.118464)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:zapf;-inkscape-font-specification:zapf;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none"
        id="flowRoot19741"
        xml:space="preserve"><flowRegion
@@ -9065,10 +9066,10 @@
            id="rect19735" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1"
          id="flowPara19739">radial dimension of the original tesseroid</flowPara></flowRoot>    <path
-       sodipodi:nodetypes="csc"
+       sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path19745"
-       d="m 771.43689,410.8622 c 2.11123,3.69018 6.09369,11.49284 12.91497,11.49284 h 85.28678"
+       d="m 771.43689,410.8622 4.09615,17.29259"
        style="fill:none;stroke:#666666;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker19841)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker25093)"
@@ -9164,7 +9165,7 @@
     </g>
     <g
        id="g37932"
-       transform="translate(16.840531,-26.458334)">
+       transform="translate(-14.909469,-40.216667)">
       <rect
          y="445.42145"
          x="581.74939"
@@ -9189,7 +9190,7 @@
            id="flowPara24169">Split tesseroid at max difference</flowPara></flowRoot>    </g>
     <g
        id="g30634"
-       transform="translate(1503.7271,-198.57374)">
+       transform="translate(1471.9769,-212.33207)">
       <rect
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.34210199;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect24618"
@@ -9214,16 +9215,10 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle">Smaller tesseroids</flowPara></flowRoot>    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker27992)"
-       d="m 647.0117,445.19459 v 8.79866"
+       d="m 615.26168,431.43626 v 8.79866"
        id="path27982"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="ccc"
-       style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker37462)"
-       d="m 833.70382,395.21748 h 18.86936 l 10e-6,58.22121"
-       id="path29006"
-       inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot29768"
@@ -9255,7 +9250,7 @@
          id="flowPara29782">Yes</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path29812"
-       d="m 697.17601,468.805 h 52.87398 v -38.80219"
+       d="m 665.16143,455.03214 h 85.15314 l -0.26458,-25.02933"
        style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker35573)"
        sodipodi:nodetypes="ccc" />
     <g
@@ -9365,7 +9360,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path40000"
-       d="m 665.89125,395.21748 h -18.86936 l -10e-6,19.68094"
+       d="m 665.89125,395.21748 h -50.61961 l -1e-5,7.45597"
        style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker40004)"
        sodipodi:nodetypes="ccc" />
     <path
@@ -9374,5 +9369,11 @@
        id="path41466"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4907)"
+       d="m 833.72394,395.21748 h 50.61961 l 10e-6,43.96847"
+       id="path4903"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
