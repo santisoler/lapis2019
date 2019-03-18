@@ -7637,9 +7637,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="2644.466"
-     inkscape:cy="2957.5149"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="2357.249"
+     inkscape:cy="2011.2955"
      inkscape:document-units="cm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -15502,7 +15502,7 @@
                id="g13971"
                transform="translate(-7.8195925,-6.1065238)">
               <flowRoot
-                 transform="matrix(0.26458333,0,0,0.26458333,1103.2474,-53.277777)"
+                 transform="matrix(0.26458333,0,0,0.26458333,1098.6434,-53.277777)"
                  style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#3333ff;stroke-opacity:0"
                  id="flowRoot12118"
                  xml:space="preserve"><flowRegion
@@ -15515,12 +15515,7 @@
                      id="rect12112"
                      style="text-align:center;text-anchor:middle;stroke:#3333ff;stroke-opacity:0" /></flowRegion><flowPara
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#3333ff;stroke-opacity:0"
-                   id="flowPara12116">= 0.1</flowPara></flowRoot>              <path
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-                 inkscape:connector-curvature="0"
-                 d="m 689.84865,444.64595 -0.14769,0.0473 -0.17723,0.0532 -0.17723,0.062 -0.14769,0.0679 -0.17723,0.0797 -0.14769,0.0827 -0.14769,0.0916 -0.1477,0.0975 -0.14769,0.10339 -0.14769,0.10929 -0.14769,0.11815 -0.11815,0.12111 -0.11815,0.12406 -0.1477,0.13292 -0.11815,0.13588 -0.0886,0.13883 -0.11816,0.14473 -0.0886,0.14474 -0.11815,0.15065 -0.0886,0.15655 -0.0886,0.15655 -0.0591,0.15655 -0.0886,0.16246 -0.0591,0.16246 -0.0591,0.16542 -0.0295,0.16541 -0.0591,0.16541 -0.0295,0.16837 -0.0295,0.16837 -0.0295,0.16837 v 0.16837 0.16541 c 0,1.41488 0.94522,2.46939 2.33351,2.46939 v -0.32196 c -0.82707,0 -1.41783,-0.61735 -1.41783,-1.73685 0,-0.9275 0.53169,-3.69227 2.51075,-4.22101 v 0 c 0.38399,0.67347 0.82707,1.471 0.82707,2.52847 0,0.97476 -0.56123,3.42939 -1.91999,3.42939 v 0.32196 c 1.71322,0 2.92428,-2.30693 2.92428,-4.3362 0,-1.34399 -0.59076,-2.07949 -1.09291,-2.7382 -0.53169,-0.6646 -1.38829,-1.76638 -1.38829,-2.41327 0,-0.32787 0.29538,-0.67937 0.79753,-0.67937 0.44307,0 0.73845,0.18904 1.06337,0.39876 0.29538,0.17428 0.59077,0.36923 0.79753,0.36923 0.35446,0 0.59077,-0.35741 0.59077,-0.59076 0,-0.32493 -0.23631,-0.36628 -0.768,-0.48739 -0.76799,-0.1595 -0.97476,-0.1595 -1.21106,-0.1595 -1.15199,0 -1.68368,0.63212 -1.68368,1.51235 0,0.80049 0.44307,1.62165 0.88615,2.51961 z"
-                 id="path12120" />
-            </g>
+                   id="flowPara12116">δ = 0.1</flowPara></flowRoot>            </g>
           </g>
         </g>
         <flowRoot
@@ -15577,9 +15572,7 @@
            width="1695.5669"
            id="rect1149-4" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara8257-3">We want to find the optimal values of <flowSpan
-   id="flowSpan14817"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';stroke-linecap:butt;stroke-linejoin:round"><flowSpan
+         id="flowPara8257-3">    We want to find the optimal values of <flowSpan
    id="flowSpan14819"
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Italic';stroke-linecap:butt;stroke-linejoin:round">D</flowSpan> and δ that guarantee accuracy while minimize the computation time. In order to do that we <flowSpan
    id="flowSpan14823"
@@ -15589,7 +15582,7 @@
    id="flowSpan14825"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';stroke-linecap:butt;stroke-linejoin:round">analytical solutions</flowSpan> of a <flowSpan
    id="flowSpan14827"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';stroke-linecap:butt;stroke-linejoin:round">spherical shell</flowSpan>.</flowSpan></flowPara></flowRoot>    <g
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';stroke-linecap:butt;stroke-linejoin:round">spherical shell</flowSpan>.</flowPara></flowRoot>    <g
        id="g164045"
        style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
       <flowRoot
