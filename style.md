@@ -24,5 +24,5 @@
 
 ## Fonts
 
-- Sans: Glaciar Indifference
+- Sans: Glacial Indifference
 - Serif: Linguistics Pro
