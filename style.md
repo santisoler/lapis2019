@@ -15,11 +15,12 @@
 - Grey: #666666ff
 - Orange: #D56827
 - Green: #999F3B
-- Light Blue: #6BBEC4
+- Light Blue: #2790B0
 - Black (backgrounds): #404040
 
 ### References
 - https://www.colourlovers.com/palette/1244968/Uniquehorn_Designs
+- https://www.colourlovers.com/palette/38562/Hands_On
 
 ## Fonts
 
