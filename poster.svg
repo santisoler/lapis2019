@@ -7637,11 +7637,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="2030.4502"
-     inkscape:cy="1138.7592"
+     inkscape:zoom="0.03125"
+     inkscape:cx="-12395.605"
+     inkscape:cy="-5280.4761"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="cm"
      inkscape:window-width="1920"
@@ -24754,10 +24754,15 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.75432205px;line-height:1.29999995;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">10<flowSpan
    id="flowSpan6767"
    style="font-size:64.99999762%;baseline-shift:super;stroke-linecap:butt;stroke-linejoin:round">-4</flowSpan></flowPara></flowRoot>    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Column 3">
     <g
        id="g208477"
-       transform="translate(-5.9141642e-7,4.0498635)"
-       style="stroke-linecap:butt;stroke-linejoin:round">
+       transform="translate(-2.7489785e-7,4.0498636)"
+       style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
       <flowRoot
          xml:space="preserve"
          id="flowRoot171939"
