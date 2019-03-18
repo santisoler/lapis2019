@@ -1639,10 +1639,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="2323.8204"
-     inkscape:cy="2207.3563"
+     inkscape:cx="77.446872"
+     inkscape:cy="2358.1471"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="cm"
      inkscape:window-width="1920"
@@ -1810,7 +1810,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="fill:#333333;fill-opacity:1;stroke:#2c3e50;stroke-width:0.81;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="fill:#404040;fill-opacity:1;stroke:#2c3e50;stroke-width:0.81;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect850"
        width="1499.1935"
        height="173.29832"
@@ -1824,7 +1824,7 @@
        height="95.180969"
        width="1499.2823"
        id="rect852"
-       style="fill:#333333;fill-opacity:1;stroke:#2c3e50;stroke-width:0.5976342;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+       style="fill:#404040;fill-opacity:1;stroke:#2c3e50;stroke-width:0.5976342;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
   </g>
   <g
      inkscape:label="Title"
