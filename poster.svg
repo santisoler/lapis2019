@@ -16,7 +16,10 @@
    version="1.1"
    id="svg109676"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="poster.svg">
+   sodipodi:docname="poster.svg"
+   inkscape:export-filename="/run/media/santi/SANTI/poster.png"
+   inkscape:export-xdpi="299.99518"
+   inkscape:export-ydpi="299.99518">
   <defs
      id="defs109670">
     <marker
@@ -13642,11 +13645,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55461787"
-     inkscape:cx="2062.4533"
-     inkscape:cy="897.71997"
+     inkscape:zoom="0.19608703"
+     inkscape:cx="1762.0852"
+     inkscape:cy="347.89239"
      inkscape:document-units="cm"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -13779,7 +13782,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
