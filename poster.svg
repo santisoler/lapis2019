@@ -8104,9 +8104,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="329.28778"
-     inkscape:cy="1026.1296"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1245.3159"
+     inkscape:cy="1734.3256"
      inkscape:document-units="cm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -13232,7 +13232,7 @@
                width="1695.5669"
                id="rect1149-6" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
-             id="flowPara8257-1">    We have developed a complementary discretization algorithm that takes reduces the errors due to the variations of the density function. In short, it <flowSpan
+             id="flowPara8257-1">    We have developed a complementary discretization algorithm that reduces the errors due to the variations of the density function. In short, it <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.18232727px;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan1502">divides the tesseroid</flowSpan> along the <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.18232727px;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';stroke-linecap:butt;stroke-linejoin:round"
