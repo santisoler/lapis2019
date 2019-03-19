@@ -113,3 +113,16 @@ algorithm is not applied.
 A lower value of **delta** generates more subdivisions.
 So the value of **delta** controls both the accuracy and the computation time.
 
+
+## Conclusions
+
+Gravitational fields of Tesseroids with continuous densities can be approximated through
+GLQ along with a 2D adaptive and a density-based discretization algorithms.
+
+The distance-size ratio D must be equal to 1 and 2.5 for the potential and its gradient
+components to achieve 0.1% accuracy.
+
+The delta ratio must be 0.1 to achieve 0.1% accuracy on most geophysical applications.
+
+Gravitational fields of sedimentary basins show meaningful differences if the density
+variation is taken into account.

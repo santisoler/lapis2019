@@ -13628,9 +13628,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="2481.0227"
-     inkscape:cy="3048.0016"
+     inkscape:zoom="0.25"
+     inkscape:cx="4070.3641"
+     inkscape:cy="1760.2266"
      inkscape:document-units="cm"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -13657,7 +13657,7 @@
      inkscape:bbox-paths="false"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="false"
-     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-midpoints="false"
      inkscape:snap-object-midpoints="false"
@@ -13754,6 +13754,20 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(255,0,2)" />
+    <sodipodi:guide
+       position="1051,415.33684"
+       orientation="1,0"
+       id="guide24563"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1038.5,405.87083"
+       orientation="1,0"
+       id="guide24565"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata109673">
@@ -18149,7 +18163,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Column 1"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot959"
@@ -18213,32 +18228,32 @@
            id="flowPara973">Introduction</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot1155"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:zapf;-inkscape-font-specification:zapf;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:zapf;-inkscape-font-specification:zapf;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
          transform="matrix(0.26338277,0,0,0.26338277,24.873265,-23.356477)"><flowRegion
            id="flowRegion1151"
-           style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round;"><rect
+           style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"><rect
              id="rect1149"
              width="1495.2722"
              height="431.68143"
              x="209.3036"
              y="982.92871"
-             style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round;" /></flowRegion><flowPara
+             style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
            id="flowPara8205"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round;">    When computing gravitational fileds on regional or global scales it's necessary to take into account the curvature of the Earth. One way to do this is using spherical prisms, also known as <flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">    When computing gravitational fileds on regional or global scales it's necessary to take into account the curvature of the Earth. One way to do this is using spherical prisms, also known as <flowSpan
    id="flowSpan11430"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';text-align:justify;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;">Tesseroids</flowSpan>. Most methodologies consider only Tesseorids with homogeneous density or with specific density variations in depth, like linear or polynomial. We propose a new methodology to compute the <flowSpan
-   style="-inkscape-font-specification:'Linguistics Pro Bold';font-family:'Linguistics Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:justify;"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';text-align:justify;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round">Tesseroids</flowSpan>. Most methodologies consider only Tesseorids with homogeneous density or with specific density variations in depth, like linear or polynomial. We propose a new methodology to compute the <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';text-align:justify;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan15809">gravitational fields</flowSpan> generated by <flowSpan
-   style="-inkscape-font-specification:'Linguistics Pro Bold';font-family:'Linguistics Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:justify;"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';text-align:justify;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan15811">Tesseroids</flowSpan> with any <flowSpan
-   style="-inkscape-font-specification:'Linguistics Pro Bold';font-family:'Linguistics Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:justify;"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';text-align:justify;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan15807">continuous density</flowSpan> variation in depth through a <flowSpan
-   style="-inkscape-font-specification:'Linguistics Pro Bold';font-family:'Linguistics Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:justify;"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';text-align:justify;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan15817">Gauss-Legendre Quadrature</flowSpan> and <flowSpan
-   style="-inkscape-font-specification:'Linguistics Pro Bold';font-family:'Linguistics Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:justify;"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Bold';text-align:justify;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan15819">two discretization algorithms</flowSpan>.</flowPara><flowPara
            id="flowPara8257"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round;" /></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    </g>
     <g
        transform="matrix(0.65027662,0,0,-0.65027662,-1278.9085,2418.5038)"
        id="g2596"
@@ -38248,6 +38263,126 @@
           </g>
         </g>
       </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot24497"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;line-height:1.25;font-family:zapf;-inkscape-font-specification:zapf;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.26338277,0,0,0.26338277,975.31152,513.492)"><flowRegion
+         id="flowRegion24493"
+         style="font-size:66.66666412px;text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"><rect
+           id="rect24491"
+           width="1458.4077"
+           height="124.70044"
+           x="209.3036"
+           y="982.92871"
+           style="font-size:66.66666412px;text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+         id="flowPara24495"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876617px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">Conclusions</flowPara></flowRoot>    <g
+       id="g24644"
+       transform="translate(0,42.33329)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <flowRoot
+         transform="matrix(0.26338278,0,0,0.26338278,995.64043,501.63474)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:zapf;-inkscape-font-specification:zapf;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+         id="flowRoot24489"
+         xml:space="preserve"><flowRegion
+           style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion24485"><rect
+             style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+             y="982.92871"
+             x="209.3036"
+             height="178.68477"
+             width="1398.0891"
+             id="rect24483" /></flowRegion><flowPara
+           id="flowPara24525"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">Gravitational fields of Tesseroids with continuous densities can be approximated through GLQ along with a 2D adaptive and a density-based discretization algorithms.</flowPara></flowRoot>      <circle
+         r="3.1015551"
+         cy="766.94189"
+         cx="1038.5"
+         id="path24588"
+         style="fill:#404040;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="g24637"
+       transform="translate(0,30.375992)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <flowRoot
+         transform="matrix(0.26338278,0,0,0.26338278,995.64043,559.84308)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:zapf;-inkscape-font-specification:zapf;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+         id="flowRoot24513"
+         xml:space="preserve"><flowRegion
+           style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion24509"><rect
+             style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+             y="982.92871"
+             x="209.3036"
+             height="141.74762"
+             width="1398.0891"
+             id="rect24507" /></flowRegion><flowPara
+           id="flowPara24537"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">The distance-size ratio D must be equal to 1 and 2.5 for the potential and its gradient components to achieve 0.1% accuracy.</flowPara><flowPara
+           id="flowPara24539"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>      <circle
+         style="fill:#404040;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle24590"
+         cx="1038.5"
+         cy="825.15021"
+         r="3.1015551" />
+    </g>
+    <g
+       id="g24629"
+       transform="translate(0,31.110627)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot24521"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:zapf;-inkscape-font-specification:zapf;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+         transform="matrix(0.26338278,0,0,0.26338278,995.64043,591.59309)"><flowRegion
+           id="flowRegion24517"
+           style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"><rect
+             id="rect24515"
+             width="1398.0891"
+             height="207.09796"
+             x="209.3036"
+             y="982.92871"
+             style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+           id="flowPara24519"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">The delta ratio δ must be equal to 0.1 to achieve 0.1% accuracy on most geophysical applications.</flowPara><flowPara
+           id="flowPara24543"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>      <circle
+         r="3.1015551"
+         cy="856.90027"
+         cx="1038.5"
+         id="circle24592"
+         style="fill:#404040;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="g24621"
+       transform="translate(0,31.750015)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <flowRoot
+         transform="matrix(0.26338278,0,0,0.26338278,995.64043,623.3431)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:zapf;-inkscape-font-specification:zapf;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+         id="flowRoot24553"
+         xml:space="preserve"><flowRegion
+           style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRegion24547"><rect
+             style="font-size:40.18232727px;line-height:1.29999995em;text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+             y="982.92871"
+             x="209.3036"
+             height="232.66985"
+             width="1398.0891"
+             id="rect24545" /></flowRegion><flowPara
+           id="flowPara24557"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">Gravitational fields of sedimentary basins show meaningful differences if the density variation is taken into account.</flowPara><flowPara
+           id="flowPara24559"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#333333;stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>      <circle
+         style="fill:#404040;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle24594"
+         cx="1038.5"
+         cy="888.65033"
+         r="3.1015551" />
     </g>
   </g>
   <g
