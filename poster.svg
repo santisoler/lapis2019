@@ -8104,11 +8104,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="2376.6867"
-     inkscape:cy="1847.4627"
+     inkscape:zoom="0.25"
+     inkscape:cx="4485.2779"
+     inkscape:cy="3510.1865"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -8116,7 +8116,7 @@
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:lockguides="true"
      inkscape:snap-to-guides="true"
@@ -8144,14 +8144,14 @@
        inkscape:locked="true"
        id="guide978"
        orientation="1,0"
-       position="39.999999,0" />
+       position="79.999999,0" />
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
        inkscape:locked="true"
        id="guide980"
        orientation="1,0"
-       position="486.69999,817.03331" />
+       position="472.99999,817.03331" />
     <inkscape:grid
        id="grid982"
        type="xygrid" />
@@ -8161,28 +8161,28 @@
        inkscape:locked="true"
        id="guide984"
        orientation="1,0"
-       position="526.69999,804.33332" />
+       position="552.99999,804.33332" />
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
        inkscape:locked="true"
        id="guide986"
        orientation="1,0"
-       position="973.39998,434.0457" />
+       position="945.99998,434.0457" />
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
        inkscape:locked="true"
        id="guide988"
        orientation="1,0"
-       position="1460.1,626.53332" />
+       position="1419,626.53332" />
     <sodipodi:guide
        inkscape:color="rgb(0,173,0)"
        inkscape:label=""
        inkscape:locked="true"
        id="guide990"
        orientation="1,0"
-       position="1013.4,554.56666" />
+       position="1026,554.56666" />
     <sodipodi:guide
        inkscape:locked="true"
        id="guide992"
@@ -8198,21 +8198,21 @@
        inkscape:label=""
        inkscape:color="rgb(0,173,0)" />
     <sodipodi:guide
-       position="461.69999,309.97591"
+       position="447.99999,309.97591"
        orientation="1,0"
        id="guide12481"
        inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(43,179,221)" />
     <sodipodi:guide
-       position="64.999999,344.7994"
+       position="105,344.7994"
        orientation="1,0"
        id="guide12529"
        inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(43,179,221)" />
     <sodipodi:guide
-       position="948.39998,871.0083"
+       position="920.99998,871.0083"
        orientation="1,0"
        id="guide1508"
        inkscape:locked="true"
@@ -8236,37 +8236,37 @@
        inkscape:locked="true"
        id="guide12928"
        orientation="1,0"
-       position="263.35,401.86646" />
+       position="276.64999,401.86646" />
     <sodipodi:guide
-       position="749.89999,617.17082"
+       position="749.64999,617.17082"
        orientation="1,0"
        id="guide68575"
        inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(255,0,15)" />
     <sodipodi:guide
-       position="551.69999,394.94417"
+       position="577.99999,394.94417"
        orientation="1,0"
        id="guide132197"
        inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(43,179,221)" />
     <sodipodi:guide
-       position="1236.75,830.67369"
+       position="1222.65,830.67369"
        orientation="1,0"
        id="guide17102"
        inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(255,0,2)" />
     <sodipodi:guide
-       position="1038.4,604.30833"
+       position="1051,604.30833"
        orientation="1,0"
        id="guide10564"
        inkscape:locked="true"
        inkscape:label=""
        inkscape:color="rgb(43,179,221)" />
     <sodipodi:guide
-       position="1435.1,619.32158"
+       position="1394,619.32158"
        orientation="1,0"
        id="guide10566"
        inkscape:locked="true"
