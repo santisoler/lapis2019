@@ -8104,9 +8104,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="1921.6185"
-     inkscape:cy="3138.1815"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="1979.5615"
+     inkscape:cy="4163.1482"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -8247,7 +8247,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Backgrounds"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#404040;fill-opacity:1;stroke:#2c3e50;stroke-width:0.81;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect850"
@@ -8306,13 +8307,11 @@
            y="834.23425"
            style="font-size:80px;line-height:116.66667175px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:116.66667175px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.33333588px;line-height:116.66667175px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan1009">Santiago R. Soler</flowSpan><flowSpan
    style="font-size:64.99999762%;baseline-shift:super;fill:#bbbbbb;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan1001">1,2</flowSpan><flowSpan
-   style="font-size:93.33333588px;stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan15787">, Agustina Pesce</flowSpan><flowSpan
+   id="flowSpan1001">1,2</flowSpan>, Agustina Pesce<flowSpan
    style="font-size:64.99999762%;baseline-shift:super;fill:#bbbbbb;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan1003">1,2</flowSpan>, Mario E. Gimenez<flowSpan
    style="font-size:64.99999762%;baseline-shift:super;fill:#bbbbbb;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
@@ -8320,7 +8319,7 @@
    style="font-size:64.99999762%;baseline-shift:super;fill:#bbbbbb;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan1007">3</flowSpan></flowPara><flowPara
          id="flowPara835"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:116.66667175px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.33333588px;line-height:116.66667175px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <g
        transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)"
        id="g22-68"
        style="stroke-linecap:butt;stroke-linejoin:round" />
@@ -12626,7 +12625,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Column 1"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot959"
@@ -12686,7 +12686,7 @@
              height="124.70044"
              width="1458.4077"
              id="rect971" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876785px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876617px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
            id="flowPara973">Introduction</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot1155"
@@ -12762,7 +12762,7 @@
              y="982.92871"
              style="font-size:66.66666412px;text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
            id="flowPara8263"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876785px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">Gauss-Legendre Quadrature</flowPara></flowRoot>      <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876617px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">Gauss-Legendre Quadrature</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26338277,0,0,0.26338277,26.378891,133.98587)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:zapf;-inkscape-font-specification:zapf;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
          id="flowRoot8275"
@@ -13171,7 +13171,7 @@
              height="124.70044"
              width="1458.4077"
              id="rect971-7" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876785px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876617px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
            id="flowPara973-5">Density-based Discretization</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot1155-3"
@@ -13604,7 +13604,7 @@
              height="124.70044"
              width="1699.8912"
              id="rect11764" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876785px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876617px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
            id="flowPara11768">2D Adaptive Discretization</flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26338277,0,0,0.26338277,24.873265,304.85302)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:zapf;-inkscape-font-specification:zapf;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -14064,7 +14064,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Column 2"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
+     sodipodi:insensitive="true">
     <g
        id="matplotlib.axis_4"
        transform="matrix(0.97446667,0,0,0.97446667,516.88185,623.70646)"
@@ -16100,7 +16101,7 @@
            y="982.92871"
            style="font-size:66.66666412px;text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara973-4"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876785px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">Determination of D and δ</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876617px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round">Determination of D and δ</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26338277,0,0,0.26338277,497.87326,350.86929)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;line-height:1.29999995em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
        id="flowRoot1155-4"
@@ -25280,9 +25281,11 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Column 3"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
+     sodipodi:insensitive="true">
     <g
-       id="g14477">
+       id="g14477"
+       style="stroke-linecap:butt;stroke-linejoin:round">
       <flowRoot
          xml:space="preserve"
          id="flowRoot171939"
@@ -25436,7 +25439,7 @@
            height="124.70044"
            width="1458.4077"
            id="rect17094" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876785px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.75876617px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara17098">Forward Model: Neuquén Basin</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
