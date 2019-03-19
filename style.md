@@ -3,7 +3,7 @@
 ## Sizes
 
 - Body text font size: 30pt
-- Section title font size: 60pt
+- Section title font size: 70pt
 - Space between columns: 8cm
 - Column width: 39,33cm
 
