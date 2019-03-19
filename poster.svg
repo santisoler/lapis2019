@@ -13647,11 +13647,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19608703"
-     inkscape:cx="1806.1417"
-     inkscape:cy="3433.2249"
+     inkscape:zoom="0.13865447"
+     inkscape:cx="2486.3411"
+     inkscape:cy="2578.4819"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer8"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -31582,13 +31582,7 @@
           <g
              transform="matrix(0,-1.0112272,-0.87211857,0,1236.8221,585.11671)"
              style="stroke-linecap:butt;stroke-linejoin:round"
-             id="patch_3-6">
-            <path
-               inkscape:connector-curvature="0"
-               d="M 53.593028,176.88168 V 12.24"
-               style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter"
-               id="path10116" />
-          </g>
+             id="patch_3-6" />
           <g
              transform="matrix(0,-1.0112272,-0.87211857,0,1236.8221,585.11671)"
              style="stroke-linecap:butt;stroke-linejoin:round"
@@ -31612,13 +31606,7 @@
           <g
              transform="matrix(0,-1.0112272,-0.87211857,0,1236.8221,585.11671)"
              style="stroke-linecap:butt;stroke-linejoin:round"
-             id="patch_6-2">
-            <path
-               inkscape:connector-curvature="0"
-               d="M 53.593028,12.24 H 227.52"
-               style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:miter"
-               id="path10125" />
-          </g>
+             id="patch_6-2" />
         </g>
       </g>
     </g>
