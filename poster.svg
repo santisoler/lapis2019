@@ -13628,11 +13628,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="4070.3641"
-     inkscape:cy="1760.2266"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="3195.6241"
+     inkscape:cy="3791.1467"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -13882,7 +13882,7 @@
        id="g32-9"
        style="stroke-linecap:butt;stroke-linejoin:round" />
     <g
-       id="g16486"
+       id="g24664"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,70.922196,-1068.3927)"
@@ -13909,8 +13909,8 @@
            id="flowPara863" /></flowRoot>      <path
          inkscape:connector-curvature="0"
          id="path16455"
-         d="m 1004.0394,-761.85939 h -5.09335"
-         style="fill:none;stroke:#999999;stroke-width:0.98777777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 1036.225,-761.85939 h -5.0934"
+         style="fill:none;stroke:#bbbbbb;stroke-width:0.98777777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g
