@@ -13648,10 +13648,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.19608703"
-     inkscape:cx="1762.0852"
-     inkscape:cy="347.89239"
+     inkscape:cx="2390.022"
+     inkscape:cy="1648.6088"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="cm"
      inkscape:window-width="1920"
@@ -13659,7 +13659,7 @@
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
      inkscape:snap-to-guides="true"
@@ -13674,7 +13674,7 @@
      inkscape:snap-nodes="true"
      inkscape:snap-center="true"
      inkscape:bbox-paths="false"
-     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="false"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-smooth-nodes="false"
@@ -13773,6 +13773,11 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(255,0,2)" />
+    <sodipodi:guide
+       position="900.32786,32.68763"
+       orientation="1,0"
+       id="guide8924"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata109673">
@@ -13782,7 +13787,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -14239,62 +14244,6 @@
            id="flowPara21428" /><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.66666794px;line-height:0.60000002em;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:start;text-anchor:start;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
            id="flowPara21430">github.com/santisoler/lapis2019</flowPara></flowRoot>    </g>
-    <g
-       id="g23392"
-       transform="translate(-8.3878794,-6.2016022)"
-       style="stroke-linecap:butt;stroke-linejoin:round">
-      <g
-         transform="translate(0,9.5249993)"
-         id="g23376"
-         style="stroke-linecap:butt;stroke-linejoin:round">
-        <path
-           inkscape:connector-curvature="0"
-           style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.73574257;stroke-linecap:butt;stroke-linejoin:round"
-           d="m 908.75191,1125.3957 c -6.10671,0 -11.03616,4.9294 -11.03616,11.036 0,4.8561 3.16366,8.9763 7.57812,10.4476 0.58861,0.072 0.73577,-0.2197 0.73577,-0.515 v -1.9128 c -3.09012,0.662 -3.75231,-1.4716 -3.75231,-1.4716 -0.51502,-1.2509 -1.25076,-1.6185 -1.25076,-1.6185 -1.03005,-0.6624 0.0737,-0.6624 0.0737,-0.6624 1.1036,0.075 1.69221,1.1037 1.69221,1.1037 0.95648,1.6921 2.57511,1.1772 3.23728,0.883 0.0737,-0.7359 0.36786,-1.1772 0.73572,-1.4716 -2.42792,-0.2942 -5.00305,-1.2509 -5.00305,-5.4446 0,-1.177 0.44144,-2.207 1.10363,-2.9428 -0.1471,-0.2942 -0.51503,-1.3978 0.0737,-2.9429 0,0 0.95648,-0.2944 3.01656,1.1035 0.88287,-0.2196 1.83934,-0.3679 2.79582,-0.3679 0.95645,0 1.91292,0.1474 2.7958,0.3679 2.13365,-1.3979 3.01654,-1.1035 3.01654,-1.1035 0.58862,1.5451 0.2208,2.6487 0.0737,2.9429 0.73575,0.7358 1.10363,1.7658 1.10363,2.9428 0,4.2674 -2.57509,5.1504 -5.00306,5.4446 0.36787,0.3678 0.73572,1.0302 0.73572,2.0602 v 3.0166 c 0,0.2941 0.2208,0.6622 0.73577,0.515 4.41445,-1.4716 7.50457,-5.5918 7.50457,-10.4476 0.0738,-6.0332 -4.8559,-10.9626 -10.96256,-10.9626 z"
-           id="path2" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot22548"
-           style="font-style:normal;font-weight:normal;font-size:80px;line-height:50px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-           transform="matrix(0.26458333,0,0,0.26458333,682.23435,906.43719)"><flowRegion
-             id="flowRegion22544"
-             style="font-size:80px;line-height:50px;fill:#666666;stroke-linecap:butt;stroke-linejoin:round"><rect
-               id="rect22542"
-               width="386.01102"
-               height="82.040634"
-               x="937.42151"
-               y="834.23425"
-               style="font-size:80px;line-height:50px;fill:#666666;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-             id="flowPara22546"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;line-height:50px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan23144">@</flowSpan>santisoler</flowPara></flowRoot>      </g>
-      <g
-         id="g23368"
-         style="stroke-linecap:butt;stroke-linejoin:round">
-        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,682.6273,943.32229)"
-           style="font-style:normal;font-weight:normal;font-size:80px;line-height:50px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-           id="flowRoot23142"
-           xml:space="preserve"><flowRegion
-             style="font-size:80px;line-height:50px;fill:#666666;stroke-linecap:butt;stroke-linejoin:round"
-             id="flowRegion23138"><rect
-               style="font-size:80px;line-height:50px;fill:#666666;stroke-linecap:butt;stroke-linejoin:round"
-               y="834.23425"
-               x="937.42151"
-               height="106.0823"
-               width="709.86584"
-               id="rect23136" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;line-height:50px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-             id="flowPara23140">santiago.r.soler<flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan23148">@</flowSpan>gmail.com</flowPara></flowRoot>        <path
-           inkscape:connector-curvature="0"
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.14433885;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-           d="m 899.71776,1165.3855 c -0.35895,0 -0.69466,0.095 -0.98538,0.2586 l 9.98314,9.1421 9.9836,-9.1418 c -0.29075,-0.1642 -0.62638,-0.2589 -0.98538,-0.2589 z m -2.00201,2.0729 v 12.182 c 0,1.1092 0.89288,2.002 2.00201,2.002 h 17.99598 c 1.10914,0 2.00201,-0.8928 2.00201,-2.002 v -12.1818 l -11.00023,10.0726 z"
-           id="rect22550" />
-      </g>
-    </g>
     <g
        transform="translate(-1.3115234e-6)"
        style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
@@ -18148,6 +18097,60 @@
              y="1288.9453"
              x="429.2966" />
         </g>
+      </g>
+    </g>
+    <g
+       id="g9000"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g8984">
+        <path
+           inkscape:connector-curvature="0"
+           style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.73574257;stroke-linecap:butt;stroke-linejoin:round"
+           d="m 900.36403,1128.7191 c -6.10671,0 -11.03616,4.9294 -11.03616,11.036 0,4.8561 3.16366,8.9763 7.57812,10.4476 0.58861,0.072 0.73577,-0.2197 0.73577,-0.515 v -1.9128 c -3.09012,0.662 -3.75231,-1.4716 -3.75231,-1.4716 -0.51502,-1.2509 -1.25076,-1.6185 -1.25076,-1.6185 -1.03005,-0.6624 0.0737,-0.6624 0.0737,-0.6624 1.1036,0.075 1.69221,1.1037 1.69221,1.1037 0.95648,1.6921 2.57511,1.1772 3.23728,0.883 0.0737,-0.7359 0.36786,-1.1772 0.73572,-1.4716 -2.42792,-0.2942 -5.00305,-1.2509 -5.00305,-5.4446 0,-1.177 0.44144,-2.207 1.10363,-2.9428 -0.1471,-0.2942 -0.51503,-1.3978 0.0737,-2.9429 0,0 0.95648,-0.2944 3.01656,1.1035 0.88287,-0.2196 1.83934,-0.3679 2.79582,-0.3679 0.95645,0 1.91292,0.1474 2.7958,0.3679 2.13365,-1.3979 3.01654,-1.1035 3.01654,-1.1035 0.58862,1.5451 0.2208,2.6487 0.0737,2.9429 0.73575,0.7358 1.10363,1.7658 1.10363,2.9428 0,4.2674 -2.57509,5.1504 -5.00306,5.4446 0.36787,0.3678 0.73572,1.0302 0.73572,2.0602 v 3.0166 c 0,0.2941 0.2208,0.6622 0.73577,0.515 4.41445,-1.4716 7.50457,-5.5918 7.50457,-10.4476 0.0738,-6.0332 -4.8559,-10.9626 -10.96256,-10.9626 z"
+           id="path2" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot22548"
+           style="font-style:normal;font-weight:normal;font-size:80px;line-height:50px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+           transform="matrix(0.26458333,0,0,0.26458333,673.84647,909.76059)"><flowRegion
+             id="flowRegion22544"
+             style="font-size:80px;line-height:50px;fill:#666666;stroke-linecap:butt;stroke-linejoin:round"><rect
+               id="rect22542"
+               width="386.01102"
+               height="82.040634"
+               x="937.42151"
+               y="834.23425"
+               style="font-size:80px;line-height:50px;fill:#666666;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+             id="flowPara22546"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;line-height:50px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan23144">@</flowSpan>santisoler</flowPara></flowRoot>      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g8976">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,674.23942,937.12069)"
+           style="font-style:normal;font-weight:normal;font-size:80px;line-height:50px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+           id="flowRoot23142"
+           xml:space="preserve"><flowRegion
+             style="font-size:80px;line-height:50px;fill:#666666;stroke-linecap:butt;stroke-linejoin:round"
+             id="flowRegion23138"><rect
+               style="font-size:80px;line-height:50px;fill:#666666;stroke-linecap:butt;stroke-linejoin:round"
+               y="834.23425"
+               x="937.42151"
+               height="106.0823"
+               width="709.86584"
+               id="rect23136" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;line-height:50px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
+             id="flowPara23140">santiago.r.soler<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan23148">@</flowSpan>gmail.com</flowPara></flowRoot>        <path
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.78518379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 891.26854,1159.183 c -1.07499,0 -1.94073,0.8652 -1.94073,1.9402 v 0.8018 l 11.00027,6.7988 10.99973,-6.7988 v -0.8018 c 0,-1.075 -0.8652,-1.9402 -1.94022,-1.9402 z m 20.05927,4.6099 -10.99973,6.7967 -11.00027,-6.7962 v 9.7011 c 0,1.0749 0.86574,1.9402 1.94073,1.9402 h 18.11905 c 1.07502,0 1.94022,-0.8653 1.94022,-1.9402 z"
+           id="rect8922"
+           inkscape:connector-curvature="0" />
       </g>
     </g>
   </g>
