@@ -10,7 +10,7 @@
 ## Color Palette
 
 - Black: #404040
-- White: #f2f2f2
+- White: #ffffff
 - Grey: #666666
 - Orange: #D56827
 - Green: #999F3B
