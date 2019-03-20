@@ -9,13 +9,12 @@
 
 ## Color Palette
 
-- Black (text): #333333
+- Black: #404040
 - White: #f2f2f2
 - Grey: #666666
 - Orange: #D56827
 - Green: #999F3B
 - Light Blue: #2790B0
-- Black (backgrounds): #404040
 
 ### References
 - https://www.colourlovers.com/palette/1244968/Uniquehorn_Designs
