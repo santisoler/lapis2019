@@ -63,7 +63,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path7617"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
     </marker>
@@ -15044,9 +15044,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="-1032.2474"
-     inkscape:cy="2496.611"
+     inkscape:zoom="2"
+     inkscape:cx="615.37163"
+     inkscape:cy="2611.8469"
      inkscape:document-units="cm"
      inkscape:current-layer="layer4"
      showgrid="false"
