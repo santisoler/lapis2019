@@ -8,9 +8,9 @@ and
 
 > <sup>1</sup>CONICET, Argentina.<br>
 > <sup>2</sup>Instituto Geofísico Sismológico Volponi, Universidad Nacional de San Juan, Argentina.<br>
-> <sup>3</sup>Department of Geology and Geophysics, SOEST, University of Hawai'i at Mānoa, Honolulu, Hawaii, USA<br>
+> <sup>3</sup>Department of Earth Sciences, SOEST, University of Hawai'i at Mānoa, USA<br>
 
-Abstract submitted to the
+Abstract submitted to
 [LAPIS 2019: Inverse methods in Geophysics](http://lapis2019.fcaglp.unlp.edu.ar/).
 
 [![Poster](poster.jpg)](poster.pdf)
@@ -48,7 +48,7 @@ Argentina with a maximum depth of over 5000m, using an exponential density funct
 
 ## Notes
 
-The poster was entirely made on Inkscape using the Glacial Indifference and Linguistics
+The poster was entirely made with Inkscape using the Glacial Indifference and Linguistics
 Por fonts, which are available under the SIL Open Font License.
 
 If the fonts are not installed on your system, the `poster.svg` file won't look as
