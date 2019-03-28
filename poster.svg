@@ -15044,11 +15044,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="1549.1252"
-     inkscape:cy="3221.3803"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="2378.7209"
+     inkscape:cy="470.12334"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -15209,7 +15209,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,902.99998)"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot110221"
@@ -15224,12 +15225,12 @@
            y="203.899"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara110227"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:199.99999884px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:199.99999884px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan825">Gravitational fields</flowSpan> of <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:199.99999884px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan823">tesseroids</flowSpan> with <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:199.99999884px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan821">variable density</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot827"
@@ -19486,9 +19487,7 @@
                y="834.23425"
                style="font-size:80px;line-height:50px;fill:#666666;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
              id="flowPara22546"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;line-height:50px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan23144">@</flowSpan>santisoler</flowPara></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.00000381px;line-height:50px;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">santisoler</flowPara></flowRoot>      </g>
       <g
          style="stroke-linecap:butt;stroke-linejoin:round"
          id="g8976">
