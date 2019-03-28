@@ -13,6 +13,7 @@ and
 Abstract submitted to the
 [LAPIS 2019: Inverse methods in Geophysics](http://lapis2019.fcaglp.unlp.edu.ar/).
 
+[![Poster](poster.jpg)](poster.pdf)
 
 ## Abstract
 
@@ -47,12 +48,14 @@ Argentina with a maximum depth of over 5000m, using an exponential density funct
 
 ## Notes
 
-The poster was entirely made on Inkscape using the Glacial Indifference font, which is
-available under the SIL Open Font License.
+The poster was entirely made on Inkscape using the Glacial Indifference and Linguistics
+Por fonts, which are available under the SIL Open Font License.
 
-If the fonts are not installed on your system, the poster won't look as expected.
-Please install the needed fonts.
+If the fonts are not installed on your system, the `poster.svg` file won't look as
+expected. Please install the needed fonts.
 
+On `poster.pdf` the fonts have been converted to paths, so there's no need to install
+the fonts to see `poster.pdf` correctly.
 
 ## License
 
@@ -63,5 +66,3 @@ This work is licensed under a
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-
-
