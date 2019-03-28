@@ -1,4 +1,4 @@
-# Gravitational fields in spherical coordinates using Tesseroids with variable density
+# Gravitational fields of tesseroids with variable density
 
 [Santiago R. Soler](https://www.github.com/santisoler)<sup>1,2</sup>,
 [Agustina Pesce](https://www.github.com/aguspesce)<sup>1,2</sup>,
