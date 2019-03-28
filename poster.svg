@@ -15044,11 +15044,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="1670.8763"
-     inkscape:cy="3197.863"
+     inkscape:zoom="0.08838835"
+     inkscape:cx="2062.1213"
+     inkscape:cy="1447.3354"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer8"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -35130,14 +35130,14 @@
      inkscape:label="Column 3"
      style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <g
-       id="g14477"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="translate(0,-3.2336288e-6)">
+       id="g8342"
+       transform="translate(0,14.242571)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
       <flowRoot
          xml:space="preserve"
          id="flowRoot171939"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;line-height:1.25;font-family:zapf;-inkscape-font-specification:zapf;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0.26338277,0,0,0.26338277,970.50285,697.34803)"><flowRegion
+         transform="matrix(0.26338277,0,0,0.26338277,970.50285,723.80638)"><flowRegion
            id="flowRegion171935"
            style="font-size:66.66666412px;text-align:start;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round"><rect
              id="rect171933"
@@ -35149,7 +35149,7 @@
            id="flowPara171937"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.18232727px;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:start;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round">References</flowPara></flowRoot>      <g
          style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(0.178311,226.26201)"
+         transform="translate(0.178311,252.72035)"
          id="g172393">
         <flowRoot
            transform="matrix(0.26338277,0,0,0.26338277,983.02562,487.9248)"
@@ -35165,14 +35165,12 @@
                width="1649.1934"
                id="rect172128" /></flowRegion><flowPara
              id="flowPara172144"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.69999999em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:start;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round">Fukushima, T., 2018. <flowSpan
-   id="flowSpan172455"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Italic';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round">Accurate computation of gravitational field of a tesseroid</flowSpan>, Journal of Geodesy, 92(12), 1371.</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.69999999em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:start;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round">Fukushima, T. (2018) doi: 10.1007/s00190-018-1126-2</flowPara><flowPara
              id="flowPara172146"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.69999999em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:start;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>      </g>
       <g
          style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(0.178311,202.72585)"
+         transform="translate(0.178311,238.8415)"
          id="g172385">
         <flowRoot
            transform="matrix(0.26338277,0,0,0.26338277,983.02562,524.96649)"
@@ -35188,12 +35186,10 @@
                width="1445.3075"
                id="rect172172" /></flowRegion><flowPara
              id="flowPara172465"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:start;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round">Grombein, T., Seitz, K., &amp; Heck, B., 2013. <flowSpan
-   id="flowSpan172457"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Italic';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round">Optimized formulas for the gravitational field of a tesseroid</flowSpan>, Journal of Geodesy,  87(7), 645–660.</flowPara></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:start;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round">Grombein, T., Seitz, K. and Heck, B. (2013) doi: 10.1007/s00190-013-0636-1</flowPara></flowRoot>      </g>
       <g
          style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(0.178311,191.67638)"
+         transform="translate(0.178311,196.03169)"
          id="g172378">
         <flowRoot
            transform="matrix(0.26338277,0,0,0.26338277,983.02562,556.71651)"
@@ -35209,12 +35205,10 @@
                width="1445.3075"
                id="rect172218" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:start;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round"
-             id="flowPara172621">Li, Z., Hao, T., Xu, Y., &amp; Xu, Y., 2011. <flowSpan
-   id="flowSpan172459"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Italic';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round">An efficient and adaptive approach for modeling gravity effects in spherical coordinates</flowSpan>, Journal of Applied Geophysics, 73(3), 221–231.</flowPara></flowRoot>      </g>
+             id="flowPara172621">Li, Z., Hao, T., Xu, Y. and Xu, Y. (2011) doi: 10.1016/j.jappgeo.2011.01.004</flowPara></flowRoot>      </g>
       <g
          style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(0.178311,180.6269)"
+         transform="translate(0.178311,185.68863)"
          id="g172371">
         <flowRoot
            transform="matrix(0.26338277,0,0,0.26338277,983.02562,588.46653)"
@@ -35230,19 +35224,17 @@
                width="1445.3075"
                id="rect172260" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round"
-             id="flowPara172623">Lin, M. &amp; Denker, H., 2018. <flowSpan
-   id="flowSpan172461"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Italic';text-align:justify;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round">On the computation of gravitational effects for tesseroids with constant and linearly varying density</flowSpan>, Journal of Geodesy, pp. 1–25.</flowPara><flowPara
+             id="flowPara172623">Lin, M. &amp; Denker, H. (2018) doi: 10.1007/s00190-018-1193-4</flowPara><flowPara
              id="flowPara172276"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round" /><flowPara
              id="flowPara172278"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>      </g>
       <g
          style="stroke-linecap:butt;stroke-linejoin:round"
-         transform="translate(0.178311,181.74829)"
+         transform="translate(0.178311,187.03996)"
          id="g172362">
         <flowRoot
-           transform="matrix(0.26338277,0,0,0.26338277,983.02562,608.0457)"
+           transform="matrix(0.26338277,0,0,0.26338277,983.02562,597.46236)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.66666412px;line-height:0.5em;font-family:zapf;-inkscape-font-specification:zapf;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#404040;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
            id="flowRoot172326"
            xml:space="preserve"><flowRegion
@@ -35255,9 +35247,7 @@
                width="1445.3075"
                id="rect172306" /></flowRegion><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro';text-align:justify;text-anchor:start;fill:#404040;stroke-linecap:butt;stroke-linejoin:round"
-             id="flowPara172625">Uieda, L., Barbosa, V. C., &amp; Braitenberg, C., 2016. <flowSpan
-   id="flowSpan172463"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78821945px;line-height:0.5em;font-family:'Linguistics Pro';-inkscape-font-specification:'Linguistics Pro Italic';text-align:justify;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round">Tesseroids: Forward-modeling gravitational fields in spherical coordinates</flowSpan>, Geophysics, 81(5), F41–F48.</flowPara></flowRoot>      </g>
+             id="flowPara172625">Uieda, L., Barbosa, V. C. and Braitenberg, C. (2016) doi: 10.1190/geo2015-0204.1</flowPara></flowRoot>      </g>
     </g>
     <g
        id="patch_28-3"
