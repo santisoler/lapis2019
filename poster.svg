@@ -15045,8 +15045,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="2779.9969"
-     inkscape:cy="2801.73"
+     inkscape:cx="1549.1252"
+     inkscape:cy="3221.3803"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -15214,27 +15214,27 @@
        xml:space="preserve"
        id="flowRoot110221"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-198.66655,-926.68338)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-198.66655,-922.45001)"><flowRegion
          id="flowRegion110223"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect110225"
-           width="6321.6582"
-           height="207.86613"
+           width="6401.6582"
+           height="279.86612"
            x="420.22345"
            y="203.899"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara110227"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan825">Gravitational fields</flowSpan> in spherical coordinates using <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:199.99999884px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:199.99999884px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan825">Gravitational fields</flowSpan> of <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:199.99999884px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan823">tesseroids</flowSpan> with <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:199.99999884px;line-height:1.27999997;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
    id="flowSpan821">variable density</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot827"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:116.66667175px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-49.267219,-1032.0644)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-49.267219,-1021.4591)"><flowRegion
          id="flowRegion829"
          style="font-size:80px;line-height:116.66667175px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect831"
@@ -15282,7 +15282,8 @@
        style="stroke-linecap:butt;stroke-linejoin:round" />
     <g
        id="g24664"
-       style="stroke-linecap:butt;stroke-linejoin:round">
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       transform="translate(0,4.233362)">
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,70.922196,-1068.3927)"
          style="font-style:normal;font-weight:normal;font-size:53.33333588px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;text-anchor:middle;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
