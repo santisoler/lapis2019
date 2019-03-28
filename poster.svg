@@ -15044,11 +15044,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="5540.6611"
-     inkscape:cy="109.20985"
+     inkscape:zoom="0.0625"
+     inkscape:cx="5837.9398"
+     inkscape:cy="1741.6365"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer8"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -15215,7 +15215,7 @@
        xml:space="preserve"
        id="flowRoot110221"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-198.66655,-922.45001)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-209.67894,-922.45001)"><flowRegion
          id="flowRegion110223"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:146.66667175px;line-height:1.27999997;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect110225"
@@ -15235,7 +15235,7 @@
        xml:space="preserve"
        id="flowRoot827"
        style="font-style:normal;font-weight:normal;font-size:80px;line-height:116.66667175px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.26458333,0,0,0.26458333,-49.267219,-1021.4591)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-49.241345,-1021.4591)"><flowRegion
          id="flowRegion829"
          style="font-size:80px;line-height:116.66667175px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect831"
@@ -15284,7 +15284,7 @@
     <g
        id="g24664"
        style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="translate(0,4.233362)">
+       transform="translate(5.5584377e-5,4.233362)">
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,70.922196,-1068.3927)"
          style="font-style:normal;font-weight:normal;font-size:53.33333588px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;text-anchor:middle;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -15318,7 +15318,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Footer"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
+     sodipodi:insensitive="true">
     <g
        id="g16503"
        transform="translate(-3.987833,-1.0016351)"
@@ -15469,14 +15470,14 @@
            d="m 3.984,326.31 c 0,0 42.717,-141.392 256.377,-117.83 0,0 73.053,4.715 238.797,130.397 0,0 135.634,87.98 189.309,104.474 17.579,5.404 110.762,41.633 173.599,22.777 0,0 -15.709,72.271 -202.664,62.846 0,0 -140.604,-14.141 -248.221,-92.691 C 303.563,357.733 251.125,326.918 224.226,312.17 224.227,312.169 78.122,222.62 3.984,326.31"
            id="path12-74"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1;stroke:none"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
            transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)" />
         <path
            clip-path="url(#SVGID_2_-4-4)"
            d="m 41.988,324.965 c 0,0 -17.282,109.188 128.827,148.46 0,0 105.256,24.354 185.382,-34.561 l 29.936,3.646 c 0,0 2.549,2.029 0.996,3.426 -41.144,36.918 -122.052,84.834 -228.096,75.409 0,0 -114.688,-3.143 -146.896,-96.015 0,0.001 -17.341,-79.941 29.851,-100.365"
            id="path14-4"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
            transform="matrix(0.11389527,0,0,0.11389527,362.61917,145.97367)" />
         <path
            clip-path="url(#SVGID_2_-4-4)"
@@ -43056,60 +43057,5 @@
         </g>
       </g>
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="Experiment"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
-     sodipodi:insensitive="true">
-    <g
-       id="matplotlib.axis_3"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.85884589,0,0,0.85884589,-575.52695,564.99999)" />
-    <g
-       id="matplotlib.axis_4-6"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.85884589,0,0,0.85884589,-575.52695,564.99999)" />
-    <g
-       id="matplotlib.axis_5"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.85884589,0,0,0.85884589,-575.52695,564.99999)" />
-    <g
-       id="matplotlib.axis_6-2"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.85884589,0,0,0.85884589,-575.52695,564.99999)" />
-    <g
-       id="matplotlib.axis_7"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.85884589,0,0,0.85884589,-575.52695,564.99999)" />
-    <g
-       id="matplotlib.axis_8-6"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.85884589,0,0,0.85884589,-575.52695,564.99999)" />
-    <g
-       id="matplotlib.axis_13"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.85884589,0,0,0.85884589,-591.93111,564.90645)" />
-    <g
-       id="matplotlib.axis_15"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.85884589,0,0,0.85884589,-575.52695,564.99999)" />
-    <g
-       id="matplotlib.axis_17"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.85884589,0,0,0.85884589,-575.52695,564.99999)" />
-    <g
-       id="matplotlib.axis_3-6"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.89669722,0,0,0.89669722,1023.996,486.05174)" />
-    <g
-       id="matplotlib.axis_4-1"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.89669722,0,0,0.89669722,1023.996,486.05174)" />
-    <g
-       id="matplotlib.axis_11-3"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.89669722,0,0,0.89669722,1023.996,486.05174)" />
   </g>
 </svg>
