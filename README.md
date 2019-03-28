@@ -13,6 +13,7 @@ and
 Abstract submitted to the
 [LAPIS 2019: Inverse methods in Geophysics](http://lapis2019.fcaglp.unlp.edu.ar/).
 
+[![Poster](poster.jpg)](poster.pdf)
 
 ## Abstract
 
@@ -63,5 +64,3 @@ This work is licensed under a
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-
-
