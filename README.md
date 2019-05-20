@@ -32,14 +32,17 @@ by two parameters: the distance-size ratio and the delta ratio.
 We have obtained analytical solutions for a spherical shell with radially variable
 density and compared them to the results of the numerical model for linear,
 exponential, and sinusoidal density functions.
+The heavily oscillating density functions are intended only to test the algorithm to its
+limits and not to emulate a real world case.
 These comparisons allowed us to obtain optimal values for the distance-size and
 delta ratios that yield an accuracy of 0.1% of the analytical solutions.
 The resulting optimal values of distance-size ratio for the gravitational potential and
 its gradient are 1 and 2.5, respectively.
 The density-based discretization algorithm produces no discretizations in the linear
-density case, but a delta ratio of 0.1 is needed for the exponential and the
-sinusoidal density functions.
-These values can be extrapolated to cover most common use cases.
+density case, but a delta ratio of 0.1 is needed for the exponential and most sinusoidal
+density functions.
+These values can be extrapolated to cover most common use cases, which are simpler than
+oscillating density profiles.
 However, the distance-size and delta ratios can be configured by the user to increase
 the accuracy of the results at the expense of computational speed.
 Lastly, we apply this new methodology to model the Neuquén Basin, a foreland basin in
