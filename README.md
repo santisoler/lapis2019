@@ -1,5 +1,7 @@
 # Gravitational fields of tesseroids with variable density
 
+[![figshare](https://img.shields.io/badge/doi-10.6084%2Fm9.figshare.8242439-blue.svg?style=flat-square)](https://doi.org/10.6084/m9.figshare.8242439)
+
 [Santiago R. Soler](https://www.github.com/santisoler)<sup>1,2</sup>,
 [Agustina Pesce](https://www.github.com/aguspesce)<sup>1,2</sup>,
 Mario E. Gimenez<sup>1,2</sup>
